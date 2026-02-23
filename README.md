@@ -7,25 +7,27 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hem2904)
 [![Gmail](https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemangshukl@gmail.com)
 [![Location](https://img.shields.io/badge/-Mumbai,_India-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-[![JewelBench](https://img.shields.io/badge/-JewelBench_AI-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNXYtMmwtMTAgNS0xMC01djJ6TTIgMTJsMTAgNSAxMC01di0ybC0xMCA1LTEwLTV2MnoiLz48L3N2Zz4=&logoColor=white)]()
+[![JewelBench](https://img.shields.io/badge/-JewelBench_AI-8B5CF6?style=for-the-badge&logoColor=white)]()
 
 <br>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=Currently+building+3D+Reconstruction+Pipelines+at+JewelBench+AI;NeRF+%7C+NeuS+%7C+Photogrammetry+%7C+Blender+%7C+PyTorch;MSc+Machine+Learning+%E2%80%94+Royal+Holloway%2C+University+of+London" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=80&lines=Building+AI-Powered+3D+Reconstruction+for+the+Jewellery+Industry;Image-to-STL+%7C+NeRF+%7C+Meshy+%7C+Trellis+%7C+Neural+Rendering+%7C+PyTorch;Turning+2D+Jewellery+Images+into+Manufacturing-Ready+3D+Assets" alt="Typing SVG" />
 
 </div>
+
+---
 
 <!-- ABOUT ME -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
 
 <img align="right" alt="3D AI" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Rendering**. Currently leading R&D at **JewelBench AI**, architecting automated 3D reconstruction pipelines that convert 2D inputs into high-fidelity digital assets for enterprise applications.
+AI Engineer specialising in **Computer Vision, 3D Generative AI, and Neural Rendering** for the **jewellery manufacturing industry**. Currently leading R&D at **JewelBench AI**, where I architect automated **Image-to-3D reconstruction pipelines** that convert 2D jewellery photographs into high-fidelity, manufacturing-ready **STL/mesh assets** — bridging the gap between traditional craftsmanship and AI-driven digital manufacturing.
 
-- :diamond_shape_with_a_dot_inside: &nbsp;Currently **AI Engineer** at **JewelBench AI** — building neural 3D reconstruction pipelines
+- :gem: &nbsp;Currently **AI Engineer** at **[JewelBench AI](https://jewelbench.com)** — pioneering AI-driven 3D asset generation for jewellery
 - :mortar_board: &nbsp;**MSc Machine Learning** — Royal Holloway, University of London
-- :mortar_board: &nbsp;**B.E. Electronics & Telecom** — St. Francis Institute of Technology, Mumbai
+- :mortar_board: &nbsp;**B.E. Electronics & Telecommunications** — St. Francis Institute of Technology, Mumbai
 - :atom_symbol: &nbsp;Actively exploring **Quantum Machine Learning** with Qiskit
 - :speaking_head: &nbsp;Languages: English (Fluent) · Hindi (Native) · Marathi (Native) · Gujarati (Conversational)
 - :soccer: &nbsp;Off-screen: **Football** & **Amateur Photography**
@@ -34,47 +36,81 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 
 ---
 
-<!-- CURRENT ROLE SPOTLIGHT -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="28" /> &nbsp;What I'm Building Now
+<!-- CURRENT ROLE — DEEP DIVE -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="28" /> &nbsp;What I'm Building — JewelBench AI
+
+> **Revolutionising how the jewellery industry creates, visualises, and manufactures digital assets using AI-powered 3D reconstruction.**
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    JewelBench AI  •  AI Engineer                        │
-│                        Oct 2025 – Present                               │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│   2D Images ──► COLMAP (SfM) ──► Camera Poses ──► NeRF / NeuS ──► 3D  │
-│                                                                         │
-│   Blender Scripts ──► Synthetic Multi-View Data ──► Training Pipeline  │
-│                                                                         │
-│   CAD Files ──► Texture Enhancement ──► Neural Tracking ──► Web Deploy │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                        JewelBench AI  •  AI Engineer                             │
+│                           Oct 2025 – Present                                     │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                  │
+│  ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐    ┌──────────────┐ │
+│  │  2D Images  │───▶│  COLMAP SfM  │───▶│  Camera Poses   │───▶│  NeRF/NeuS   │ │
+│  │ (Jewellery) │    │  (Intrinsics │    │  (Extrinsics +  │    │  (Volume     │ │
+│  └─────────────┘    │  + Extrins.) │    │  Point Clouds)  │    │  Rendering)  │ │
+│                     └──────────────┘    └─────────────────┘    └──────┬───────┘ │
+│                                                                       │         │
+│  ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐          ▼         │
+│  │  Meshy /    │───▶│  Image-to-   │───▶│  STL / OBJ /    │───▶  3D Asset     │
+│  │  Trellis    │    │  3D Models   │    │  GLB Export      │    (Mfg-Ready)   │
+│  └─────────────┘    └──────────────┘    └─────────────────┘                    │
+│                                                                                  │
+│  ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐    ┌──────────────┐ │
+│  │  Blender    │───▶│  Synthetic   │───▶│  Procedural Cam │───▶│  Training    │ │
+│  │  Scripting  │    │  Multi-View  │    │  Trajectories   │    │  Datasets    │ │
+│  └─────────────┘    └──────────────┘    └─────────────────┘    └──────────────┘ │
+│                                                                                  │
+│  ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐    ┌──────────────┐ │
+│  │  Raw CAD    │───▶│  Generative  │───▶│  Domain         │───▶│  Neural      │ │
+│  │  Geometry   │    │  Texture Enh │    │  Randomisation  │    │  Tracking    │ │
+│  └─────────────┘    └──────────────┘    └─────────────────┘    └──────────────┘ │
+└──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-> **Key Highlights at JewelBench AI:**
+### :microscope: &nbsp;Technical Deep-Dive
 
-- :zap: Deployed an end-to-end **Neural Implicit Reconstruction pipeline** using differentiable volume rendering — reduced asset creation time by **over 60%**
-- :movie_camera: Engineered custom **Blender automation scripts** producing high-density multi-view synthetic training datasets with procedural camera trajectories
-- :dart: Integrated **COLMAP Structure-from-Motion** solvers achieving sub-pixel alignment for surface reconstruction
-- :chart_with_upwards_trend: Established benchmarking protocols using **F1, Precision, Recall** metrics; optimized inference latency for web deployment
-- :paintbrush: Solved "feature-starvation" in raw CAD files through **generative texture enhancement & domain randomization**
-- :white_check_mark: Created **Ground Truth baselines** with Mira3D ensuring AI-generated topology meets manufacturing standards
+**Image-to-STL Pipeline for Jewellery Manufacturing**
+
+The core challenge in jewellery digitisation is converting sparse 2D product photographs into watertight, dimensionally accurate 3D meshes (STL/OBJ) suitable for CAM workflows, 3D printing, and interactive web-based visualisation. My work at JewelBench AI tackles this end-to-end:
+
+**1. Multi-View Reconstruction via Neural Implicit Surfaces**
+- Designed and deployed an end-to-end **Neural Implicit Reconstruction pipeline** using differentiable volume rendering (NeRF/NeuS architectures), generating photorealistic 3D meshes from sparse inputs and **reducing asset creation time by over 60%** compared to manual CAD modelling.
+- Integrated **Structure-from-Motion (COLMAP)** solvers to compute precise camera intrinsics and extrinsics from unstructured image sets, achieving **sub-pixel reprojection alignment** critical for fine jewellery geometry (prongs, pavé settings, filigree).
+
+**2. Generative 3D Models — Meshy, Trellis & Beyond**
+- Leveraging state-of-the-art **Image-to-3D generative models** such as **[Meshy](https://www.meshy.ai/)** and **[Trellis (Microsoft)](https://github.com/microsoft/TRELLIS)** for single-image and few-shot 3D generation, performing extensive **hyperparameter tuning** (guidance scale, sampling steps, mesh resolution, remeshing thresholds) to optimise output topology for jewellery-specific geometries.
+- Benchmarking generative model outputs against photogrammetric ground truth using **Chamfer Distance, F1-Score, Normal Consistency**, and **Hausdorff Distance** metrics to ensure manufacturing-grade fidelity.
+- Evaluating and fine-tuning emerging architectures (TripoSR, InstantMesh, Wonder3D) for domain-specific adaptation to precious metals, gemstones, and reflective/translucent materials — surfaces notoriously difficult for neural reconstruction.
+
+**3. Synthetic Data Generation & Blender Automation**
+- Engineered custom **Python automation scripts via the Blender API** to produce high-density multi-view synthetic training datasets with **procedural camera trajectory algorithms** (Fibonacci sphere sampling, golden-angle spirals) ensuring optimal surface coverage for intricate jewellery designs.
+- Generated photorealistic renders with **physically-based materials** (gold, silver, platinum, gemstone caustics) and **HDRI environment lighting** to close the domain gap between synthetic training data and real-world product photography.
+
+**4. CAD Feature Enhancement & Domain Randomisation**
+- Resolved critical **"feature-starvation" issues** in raw CAD/STL files — sterile geometry that lacks the surface texture detail needed for neural feature matching — through **generative texture enhancement** and **domain randomisation** (randomised backgrounds, lighting, material perturbations).
+- This bridged the gap between clean CAD geometry and the photorealistic appearance that neural tracking and reconstruction algorithms require for robust convergence.
+
+**5. Quality Assurance & Manufacturing Standards**
+- Established rigorous **benchmarking protocols** using F1, Precision, and Recall on reconstructed meshes; collaborated with engineering teams to optimise **inference latency and geometric accuracy** for real-time web deployment.
+- Utilised **Mira3D** tools to create **Ground Truth baselines**, ensuring AI-generated topology meets **manufacturing tolerances and jewellery design standards** (wall thickness, prong integrity, stone-setting accuracy).
 
 <div align="center">
 
-`Python` `PyTorch` `NeRF/NeuS` `Computer Vision` `Blender API` `COLMAP` `Photogrammetry`
+`Python` `PyTorch` `NeRF/NeuS` `Meshy` `Trellis` `COLMAP` `Blender API` `Photogrammetry` `OpenCV` `STL/OBJ/GLB`
 
 </div>
 
 ---
 
 <!-- EXPERIENCE TIMELINE -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Professional Experience
 
 <table>
 <tr>
@@ -84,8 +120,8 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 </td>
 <td>
 
-**AI Engineer** — *JewelBench AI* · Mumbai, India
-> Spearheading R&D of automated 3D Reconstruction Pipelines — NeRF, NeuS, Photogrammetry, Blender automation. Reduced asset creation time by 60%+.
+**Artificial Intelligence Engineer** — *[JewelBench AI](https://jewelbench.com)* · Mumbai, India (On-site)
+> Leading R&D of automated Image-to-3D reconstruction pipelines for the jewellery industry. Building neural rendering systems (NeRF/NeuS), evaluating generative 3D models (Meshy, Trellis), and deploying manufacturing-ready STL assets — reducing asset creation time by 60%+.
 
 </td>
 </tr>
@@ -96,7 +132,7 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 <td>
 
 **Business Data Analyst** — *Shree Laxmi Traders* · Mumbai, India &nbsp;`Jan 2022 – Jul 2022`
-> Analyzed sales, inventory & operational datasets. Built interactive Tableau/Power BI dashboards for KPI monitoring. Developed predictive models for demand forecasting & supply chain optimization.
+> Analysed sales, inventory, and operational datasets to deliver data-driven insights. Designed interactive dashboards using Tableau and Power BI for real-time KPI monitoring. Built predictive models for demand forecasting and supply chain optimisation.
 
 </td>
 </tr>
@@ -107,7 +143,7 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 <td>
 
 **Data Analyst Intern** — *Zytex Corporation* · Silvassa, India &nbsp;`Feb 2021 – Apr 2021`
-> Developed algorithms to establish correlations across product datasets, ensuring consistent manufacturing quality. Implemented process optimization reducing operational costs.
+> Developed and rigorously tested algorithms to establish correlations across product datasets, ensuring consistent manufacturing quality standards across batches. Implemented process optimisation initiatives reducing operational costs.
 
 </td>
 </tr>
@@ -118,7 +154,7 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 <td>
 
 **Operational Management Intern** — *Charlie Motors* · Thane, India &nbsp;`Jul 2021 – Aug 2021`
-> Redesigned production processes to enhance efficiency. Implemented resource allocation & performance monitoring strategies.
+> Analysed existing business operations and redesigned production processes to enhance efficiency. Implemented resource allocation and performance monitoring strategies to optimise output.
 
 </td>
 </tr>
@@ -129,7 +165,7 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 <td>
 
 **Public Relations Intern** — *3 Folks Media* · Mumbai, India &nbsp;`Aug 2020 – Nov 2020`
-> Represented company at conferences, pitched stories to media outlets. Managed social media analytics & content strategy; prepared monthly growth-rate reports.
+> Represented the company at conferences and events, building relationships with key stakeholders and pitching stories to media outlets. Managed social media analytics and content strategy; prepared monthly growth-rate performance reports.
 
 </td>
 </tr>
@@ -179,16 +215,22 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
-#### ML / AI & 3D Vision
+#### ML / AI & Neural Rendering
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![NeRF](https://img.shields.io/badge/NeRF%2FNeuS-1a1b27?style=for-the-badge)
-![COLMAP](https://img.shields.io/badge/COLMAP-2D3748?style=for-the-badge)
+![Meshy](https://img.shields.io/badge/Meshy-00D4AA?style=for-the-badge)
+![Trellis](https://img.shields.io/badge/Trellis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-#### Data & Visualization
+#### 3D Vision & Reconstruction
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![COLMAP](https://img.shields.io/badge/COLMAP-2D3748?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Mira3D](https://img.shields.io/badge/Mira3D-FF6B6B?style=for-the-badge)
+![Photogrammetry](https://img.shields.io/badge/Photogrammetry-4A5568?style=for-the-badge)
+
+#### Data & Visualisation
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -198,8 +240,9 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 #### Infrastructure & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![API](https://img.shields.io/badge/API_Architecture-009688?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM_APIs-4B0082?style=for-the-badge)
-![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-FF4088?style=for-the-badge)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-4B0082?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4088?style=for-the-badge)
+![STL/OBJ/GLB](https://img.shields.io/badge/STL%2FOBJ%2FGLB-718096?style=for-the-badge)
 
 </div>
 
@@ -209,17 +252,20 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Key Projects
 
 <details open>
-<summary><b>:diamond_shape_with_a_dot_inside: 3D Neural Reconstruction Pipeline — JewelBench AI</b></summary>
+<summary><b>:gem: Image-to-STL: AI-Powered 3D Jewellery Reconstruction — JewelBench AI</b></summary>
 <br>
 
-> End-to-end pipeline converting 2D images into photorealistic 3D digital assets
+> **End-to-end pipeline converting 2D jewellery photographs into manufacturing-ready 3D mesh assets (STL/OBJ/GLB)**
 
-- Built differentiable volume rendering pipeline using **NeRF/NeuS** architectures
-- Automated **Blender scripting** for synthetic multi-view dataset generation with procedural camera trajectories
-- Integrated **COLMAP SfM** for precise camera pose estimation with sub-pixel accuracy
-- Deployed optimized models for **web-based 3D asset delivery**
+- Architected a multi-model evaluation framework comparing **NeRF/NeuS, Meshy, Trellis, TripoSR, and InstantMesh** for jewellery-specific 3D generation
+- Built differentiable volume rendering pipelines generating photorealistic meshes from sparse inputs — **60%+ reduction in asset creation time**
+- Engineered **Blender automation** for synthetic multi-view dataset generation with procedural camera trajectories (Fibonacci sphere, golden-angle spirals)
+- Integrated **COLMAP SfM** for precise camera pose estimation with sub-pixel reprojection accuracy
+- Benchmarked outputs using **Chamfer Distance, F1-Score, Normal Consistency, and Hausdorff Distance** against photogrammetric ground truth
+- Solved feature-starvation in raw CAD through **generative texture enhancement and domain randomisation**
+- Deployed optimised models for **real-time web-based 3D visualisation and e-commerce**
 
-`PyTorch` `NeRF` `NeuS` `Blender API` `COLMAP` `OpenCV` `Photogrammetry`
+`PyTorch` `NeRF/NeuS` `Meshy` `Trellis` `Blender API` `COLMAP` `OpenCV` `STL/OBJ` `Photogrammetry`
 
 </details>
 
@@ -227,11 +273,11 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 <summary><b>:brain: Semantic Image Segmentation Research</b></summary>
 <br>
 
-> Comprehensive benchmarking study across state-of-the-art architectures
+> Comprehensive benchmarking study across state-of-the-art segmentation architectures
 
-- Implemented **U-Net, Mask R-CNN & DeepLabv3** for pixel-level classification
-- Established rigorous evaluation frameworks (**IoU, pixel accuracy**)
-- Applied **transfer learning & hyperparameter tuning** to optimize performance
+- Implemented **U-Net, Mask R-CNN, and DeepLabv3** for pixel-level classification using TensorFlow and PyTorch
+- Established rigorous evaluation frameworks (**IoU, pixel accuracy**) with systematic hyperparameter tuning
+- Applied **transfer learning** from ImageNet pre-trained backbones to optimise performance on domain-specific datasets
 
 `TensorFlow` `PyTorch` `OpenCV` `Transfer Learning`
 
@@ -241,25 +287,25 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 <summary><b>:mirror: Smart Mirror — IoT & AI Integration</b></summary>
 <br>
 
-> Raspberry Pi-powered smart mirror with voice AI
+> Raspberry Pi-powered smart mirror with voice-controlled AI assistant
 
-- Integrated **weather APIs, calendar services & Google Assistant** voice commands
-- Built with **Java, Python, Node.js & CSS**
-- Connected **Bluetooth audio** for hands-free interaction
+- Architected a smart mirror integrating **weather APIs, calendar services, and Google Assistant** voice commands
+- Built with **Java, Python, Node.js, and CSS**; connected **Bluetooth audio** for hands-free interaction
+- Designed modular architecture allowing plug-and-play widget expansion
 
 `Raspberry Pi` `Python` `Java` `Node.js` `Google Assistant API`
 
 </details>
 
 <details>
-<summary><b>:atom_symbol: UK National Quantum Computing Hackathon 2024</b></summary>
+<summary><b>:atom_symbol: UK National Quantum Computing Hackathon 2024 — NQCC</b></summary>
 <br>
 
-> NQCC Hackathon — Representing CGI UK IT Ltd. with AWS (IQM) & Classiq
+> Representing CGI UK IT Ltd. in a cross-functional team with AWS (IQM) and Classiq
 
-- Developed **quantum solutions** for forecasting energy supply, demand & pricing
-- Explored **input encodings & loss function definitions** for quantum simulation
-- Analyzed resource requirements for **quantum-classical hybrid** approaches
+- Developed **quantum solutions** for forecasting energy supply, demand, and pricing
+- Explored **input encodings and loss function definitions** for quantum circuit simulation
+- Analysed resource requirements for **quantum-classical hybrid** optimisation approaches
 
 `Qiskit` `Classiq` `Quantum ML` `Python`
 
@@ -289,12 +335,13 @@ AI Engineer with expertise in **Computer Vision, 3D Generative AI, and Neural Re
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;Core Competencies
 
 ```text
-3D Generative AI & NeRF  ██████████████████████░░   95%
-Computer Vision          ████████████████████░░░░   90%
-Machine Learning & AI    ████████████████████░░░░   90%
-Data Analytics & Viz     █████████████████░░░░░░░   80%
-Quantum Computing        ██████████████░░░░░░░░░░   60%
-LLM APIs & Prompt Eng    ████████████████░░░░░░░░   75%
+3D Generative AI (Meshy/Trellis/NeRF)  ██████████████████████░░   95%
+Computer Vision & Reconstruction        ████████████████████░░░░   90%
+Machine Learning & Deep Learning        ████████████████████░░░░   90%
+Image-to-STL / Manufacturing Pipelines  ██████████████████░░░░░░   85%
+Data Analytics & Visualisation          █████████████████░░░░░░░   80%
+LLM APIs & Prompt Engineering           ████████████████░░░░░░░░   75%
+Quantum Computing (Qiskit)              ██████████████░░░░░░░░░░   60%
 ```
 
 ---
@@ -327,8 +374,9 @@ LLM APIs & Prompt Eng    ████████████████░░�
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> &nbsp;Let's Connect
 
-*I'm always open to collaborations in **3D AI, Computer Vision, Neural Rendering** and **Quantum ML**.*
-*Feel free to reach out — let's build something amazing together.*
+*I'm passionate about the intersection of **AI and manufacturing** — especially how generative 3D models*
+*are transforming how jewellery is designed, visualised, and produced.*
+*Open to collaborations in **3D AI, Computer Vision, Neural Rendering,** and **Quantum ML**.*
 
 <br>
 
