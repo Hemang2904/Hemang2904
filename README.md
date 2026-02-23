@@ -12,7 +12,7 @@
 <br>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=80&lines=Building+AI-Powered+3D+Reconstruction+for+the+Jewellery+Industry;Image-to-STL+%7C+NeRF+%7C+Meshy+%7C+Trellis+%7C+Neural+Rendering+%7C+PyTorch;Turning+2D+Jewellery+Images+into+Manufacturing-Ready+3D+Assets" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=AI-Powered+3D+Reconstruction+%F0%9F%92%8E+Jewellery;Image-to-STL+%7C+NeRF+%7C+Meshy+%7C+Trellis;2D+Photos+%E2%86%92+Manufacturing-Ready+3D+Assets;Neural+Rendering+%7C+Computer+Vision+%7C+PyTorch" alt="Typing SVG" /></a>
 
 </div>
 
