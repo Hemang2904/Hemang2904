@@ -41,38 +41,36 @@ AI Engineer specialising in **Computer Vision, 3D Generative AI, and Neural Rend
 
 > **Revolutionising how the jewellery industry creates, visualises, and manufactures digital assets using AI-powered 3D reconstruction.**
 
-<div align="center">
+```mermaid
+flowchart TD
+    A["📷 2D Jewellery Photos\n(Sparse Multi-View Input)"]
+    A --> B["🗺️ COLMAP — Structure-from-Motion\nCamera Intrinsics · Extrinsics · Point Clouds"]
+    A --> E["✨ Meshy / Trellis\nGenerative Image-to-3D Models"]
+    B --> C["📐 Camera Poses\nSub-pixel Reprojection Alignment"]
+    C --> D["🧠 NeRF / NeuS\nDifferentiable Volume Rendering"]
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│                        JewelBench AI  •  AI Engineer                             │
-│                           Oct 2025 – Present                                     │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                  │
-│  ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐    ┌──────────────┐ │
-│  │  2D Images  │───▶│  COLMAP SfM  │───▶│  Camera Poses   │───▶│  NeRF/NeuS   │ │
-│  │ (Jewellery) │    │  (Intrinsics │    │  (Extrinsics +  │    │  (Volume     │ │
-│  └─────────────┘    │  + Extrins.) │    │  Point Clouds)  │    │  Rendering)  │ │
-│                     └──────────────┘    └─────────────────┘    └──────┬───────┘ │
-│                                                                       │         │
-│  ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐          ▼         │
-│  │  Meshy /    │───▶│  Image-to-   │───▶│  STL / OBJ /    │───▶  3D Asset     │
-│  │  Trellis    │    │  3D Models   │    │  GLB Export      │    (Mfg-Ready)   │
-│  └─────────────┘    └──────────────┘    └─────────────────┘                    │
-│                                                                                  │
-│  ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐    ┌──────────────┐ │
-│  │  Blender    │───▶│  Synthetic   │───▶│  Procedural Cam │───▶│  Training    │ │
-│  │  Scripting  │    │  Multi-View  │    │  Trajectories   │    │  Datasets    │ │
-│  └─────────────┘    └──────────────┘    └─────────────────┘    └──────────────┘ │
-│                                                                                  │
-│  ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐    ┌──────────────┐ │
-│  │  Raw CAD    │───▶│  Generative  │───▶│  Domain         │───▶│  Neural      │ │
-│  │  Geometry   │    │  Texture Enh │    │  Randomisation  │    │  Tracking    │ │
-│  └─────────────┘    └──────────────┘    └─────────────────┘    └──────────────┘ │
-└──────────────────────────────────────────────────────────────────────────────────┘
-```
+    F["⚙️ Blender API — Python Automation\nProcedural Camera Trajectories · PBR Materials · HDRI"]
+    F --> G["🎬 Synthetic Multi-View Dataset\nGold · Silver · Platinum · Gemstone Caustics"]
+    G --> D
 
-</div>
+    I["🔩 Raw CAD / STL Geometry\n(Feature-Starved Input)"]
+    I --> J["🎨 Generative Texture Enhancement\nDomain Randomisation · Material Perturbation"]
+    J --> E
+
+    D --> H["💎 Manufacturing-Ready 3D Asset\nSTL · OBJ · GLB\nValidated: Chamfer · F1 · Hausdorff · Normal Consistency"]
+    E --> H
+
+    style A fill:#1e2030,stroke:#6C63FF,stroke-width:2px,color:#C9D1D9
+    style B fill:#1e2030,stroke:#6C63FF,stroke-width:1px,color:#C9D1D9
+    style C fill:#1e2030,stroke:#6C63FF,stroke-width:1px,color:#C9D1D9
+    style D fill:#1e2030,stroke:#8B5CF6,stroke-width:2px,color:#C9D1D9
+    style E fill:#1e2030,stroke:#8B5CF6,stroke-width:2px,color:#C9D1D9
+    style F fill:#1e2030,stroke:#F5792A,stroke-width:1px,color:#C9D1D9
+    style G fill:#1e2030,stroke:#F5792A,stroke-width:1px,color:#C9D1D9
+    style I fill:#1e2030,stroke:#3B82F6,stroke-width:1px,color:#C9D1D9
+    style J fill:#1e2030,stroke:#3B82F6,stroke-width:1px,color:#C9D1D9
+    style H fill:#0d2818,stroke:#00D4AA,stroke-width:3px,color:#00D4AA
+```
 
 ### :microscope: &nbsp;Technical Deep-Dive
 
