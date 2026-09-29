@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1a1b27,100:6C63FF&height=230&section=header&text=Hemang%20Shukla&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%C2%B7%20Production%20AI%20for%20jewellery%20design%2C%20costing%20and%203D&descSize=17&descAlignY=57&descColor=C9CBFF&animation=fadeIn" width="100%" alt="Hemang Shukla. Machine Learning Engineer. Production AI for jewellery design, costing and 3D." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1a1b27,100:6C63FF&height=230&section=header&text=Hemang%20Shukla&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%C2%B7%20Production%20AI%20for%20jewellery%20design%2C%20costing%20and%203D&descSize=17&descAlignY=57&descColor=C9CBFF" width="100%" alt="Hemang Shukla. Machine Learning Engineer. Production AI for jewellery design, costing and 3D." />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1200&color=6C63FF&background=0D1117&center=true&vCenter=true&width=850&height=55&lines=Engineering+at+JewelBench+AI;Vision-based+analysis+for+jewellery+costing;Manufacturable+designs+and+3D+assets;Ground-truth+evaluation+and+production+systems;Open-source+tools+for+coding+agents" width="100%" alt="Engineering at JewelBench AI; vision-based analysis for jewellery costing; manufacturable designs and 3D assets; ground-truth evaluation and production systems; open-source tools for coding agents" />
 
