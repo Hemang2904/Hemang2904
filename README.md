@@ -135,14 +135,11 @@ Jewellery tools: [**gia-charts-carat-calc**](https://github.com/Hemang2904/gia-c
 
 <br>
 
-<h2 align="center">GitHub activity</h2>
+<h2 align="center">The pipeline, and GitHub activity</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hemang2904&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub stats" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang2904&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top languages" />
-
+<img src="https://raw.githubusercontent.com/Hemang2904/Hemang2904/main/assets/pipeline.svg" width="100%" alt="Pipeline: photographs and briefs, Forge and the design co-pilot, manufacturable output" />
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=Hemang2904&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117&timezone=Asia%2FKolkata" alt="GitHub contribution streak" />
